@@ -27,7 +27,7 @@ const exp = [
   },
   {
     title: "Yashi Khera",
-    cardImage: "assets/images/yashi.png",
+    cardImage: "assets/images/yashii.jpg",
     place: "Prayagraj",
     time: "(2021-2024)",
     desp: "During the field trip, I got the opportunity to tour the port facilities and see the various types of cargo being loaded and unloaded from ships. I also learned about the logistics of port operations, including the role of customs officials, port authorities, and other stakeholders in the supply chain. The entire visit was very engaging and informative.",
